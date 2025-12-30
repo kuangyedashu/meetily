@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(test:*)",
+      "Bash(pnpm view:*)",
+      "Bash(git ls-remote:*)",
+      "Bash(rustup install:*)",
+      "Bash(tar:*)",
+      "Bash(./install.sh:*)",
+      "Bash(rustup toolchain link:*)",
+      "Bash(stdbuf:*)",
+      "Bash(webkit2gtk-4.0:*)",
+      "Bash(webkit2gtk:*)",
+      "Bash(pnpm run tauri dev:*)",
+      "Bash(docker:*)"
+    ]
+  }
+}
